@@ -19,3 +19,4 @@ Then simply execute the respective python file "streamlit.py" to deploy on the S
 !streamlit run /content/streamlit.py
 
 ### Youtube link --> https://www.youtube.com/watch?v=2c8lJSKtQHc&t=54s
+The above link is for a video on complete description of our work.
